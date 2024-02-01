@@ -1,5 +1,5 @@
 -------------------------------------Network Monitoring ReadMe------------------------------------------
-- This project is run by starting "python answer.py" in powershell or cmd.
+- This project is run by starting "python network_monitor.py" in powershell or cmd.
 
 - To choose a service to add pick a number from 1-7. Choice #8 will use a echo client server to see if the local echo server is running.
 
