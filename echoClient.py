@@ -8,7 +8,7 @@ def echo_client():
 
     try:
         sock.connect((server_address, server_port))
-        message = 'Hello Server, how are you?'
+        message = 'goodbye'
         print(f"Sending {message}")
         sock.sendall(message.encode())
 
